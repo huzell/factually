@@ -11,6 +11,7 @@ Finding clear and acurate satistics should be as easy as 1 2 3.
 2. Select your subject/source
 3. Filter out what you're looking for and flip between various charts for that data
 
+### Integration
 
 ## [Mailing List/Discussion Group] (https://groups.google.com/forum/#!forum/seekerproject/)
 
