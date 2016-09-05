@@ -18,3 +18,5 @@ Finding clear and acurate satistics should be as easy as 1 2 3.
 ## [Developer Guide] (https://github.com/huzell/seeker/wiki/Developer-Guide)
 
 ## [Build Plan] (https://github.com/huzell/seeker/wiki/Build-Plan)
+
+## Contributors
