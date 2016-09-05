@@ -20,6 +20,6 @@ If you have any questions please ask them here.
 The Developer Guide contains information about how you can contribute to the project and how contribution should be submitted.
 
 ## [Build Plan] (https://github.com/huzell/seeker/wiki/Build-Plan)
-The Build Plan is the project TODO-list. If you want to get involved, this is where you pick something. The list will be continiously added to and tasks on the completed tasks will be crossed out but kept for clearity.
+The Build Plan is the project TODO-list. If you want to get involved, this is where you pick something. The list will be continiously added to and completed tasks will be crossed out but kept for clearity.
 
 ## Contributors
