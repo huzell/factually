@@ -1,4 +1,4 @@
-# Seeker
+# Factually
 Making open data statistics too clear to misunderstand or misuse
 
 The purpose of this project is to create a single place to quickly and easily find open data statistics that are clearly visualized (rather than just linked to).
@@ -7,7 +7,7 @@ New open data sources are popping up everywhere but they're scattered and not ne
 
 Finding clear and acurate satistics should be as easy as 1 2 3.
 
-1. Go to Seeker
+1. Go to Factually
 2. Select your subject/source
 3. Filter out what you're looking for and flip between various charts for that data
 
