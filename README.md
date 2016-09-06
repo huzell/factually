@@ -13,7 +13,7 @@ Finding clear and acurate satistics should be as easy as 1 2 3.
 
 ### Integration
 
-## [Mailing List/Discussion Group] (https://groups.google.com/forum/#!forum/seekerproject/)
+## [Mailing List/Discussion Group] (https://groups.google.com/forum/#!forum/factually)
 If you have any questions please ask them here.
 
 ## [Developer Guide] (https://github.com/huzell/seeker/wiki/Developer-Guide)
